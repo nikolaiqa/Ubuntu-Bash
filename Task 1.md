@@ -14,4 +14,4 @@
 12. Remove all created content
 13. Clear the commands history
 ___
-![solution_of_task1](../Task%201%20(pwd,%20ls,%20mkdir,%20mv,%20rm).gif)
+![solution_of_task1](Sourses/Task%201%20(pwd,%20ls,%20mkdir,%20mv,%20rm).gif)
