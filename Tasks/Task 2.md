@@ -14,3 +14,4 @@
 13. Make sure there's no file there
 14. Clear the commands history 
 ___
+![solution_of_task2](../Task%202%20(echo,%20nano,%20cat,%20vim,%20grep).gif)
