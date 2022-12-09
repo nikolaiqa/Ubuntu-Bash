@@ -18,5 +18,5 @@ ___
 ## Solution of the task:
 ![solution_of_task2](Sourses/Task%202%20(echo,%20nano,%20cat,%20vim,%20grep).gif)
 ___
-## Final result of the solution
+## Complete solution overview
 ![FS2](Sourses/Final_solution_2.png)

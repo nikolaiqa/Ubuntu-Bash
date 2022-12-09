@@ -17,5 +17,5 @@ ___
 ## Solution of the task:
 ![solution_of_task1](Sourses/Task%201%20(pwd,%20ls,%20mkdir,%20mv,%20rm).gif)
 ___
-## Final result of the solution
+## Complete solution overview
 ![FS](Sourses/Final_solution.png)
