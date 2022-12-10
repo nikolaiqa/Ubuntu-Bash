@@ -21,4 +21,4 @@ note: **_to force the solution to be working from the beginning just refresh you
 ![solution_of_task2](Sourses/Task%202%20(echo,%20nano,%20cat,%20vim,%20grep).gif)
 ___
 ## Complete solution overview
-![FS2](Sourses/Final_solution_2.png)
+![FS2](Sourses/Final_solution 2.png)
