@@ -3,7 +3,7 @@
 </p>
 
 # About 
-Here I'm introducing my skills with standard commands in the terminal.
-Every solution of the task is a GIF-file so you may see with ease how I manage usual things like creating, moving, deleting folders and files. In the ''Tasks" folder you'll find the tasks itself, but there's no need of it because each GIF-file displays both solution and task.
+Here I'm introducing my skills with standard commands in the terminal. Each task in the repository involves both a condition and a solution. Every solution of the task is a GIF-file so you may see with ease how I manage usual things like creating, moving, deleting folders and files in dynamic way. Also there're PNG-files in the tasks representing a full solution at once. A "Sourses" folder stores all the used in this repository files.
 
-note: **_if the GIF-file's working from not the beginning just refresh the page of your browser_**
+
+
