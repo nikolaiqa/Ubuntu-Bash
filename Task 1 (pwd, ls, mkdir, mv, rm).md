@@ -14,7 +14,7 @@
 12. Remove all created content
 13. Clear the commands history
 ___
-note: **_to force the solution working from the beginning just refresh your browser page_**
+note: **_to force the solution to be working from the beginning just refresh your browser page_**
 
 ## Solution of the task:
 ![solution_of_task1](Sourses/Task%201%20(pwd,%20ls,%20mkdir,%20mv,%20rm).gif)
