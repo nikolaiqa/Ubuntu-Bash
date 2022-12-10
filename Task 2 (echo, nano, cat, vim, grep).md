@@ -15,7 +15,7 @@
 13. Make sure there's no file there
 14. Clear the commands history 
 ___
-note: **_to force the solution working from the beginning just refresh your browser page_**
+note: **_to force the solution to be working from the beginning just refresh your browser page_**
 
 ## Solution of the task:
 ![solution_of_task2](Sourses/Task%202%20(echo,%20nano,%20cat,%20vim,%20grep).gif)
