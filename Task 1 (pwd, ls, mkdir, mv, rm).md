@@ -14,8 +14,11 @@
 12. Remove all created content
 13. Clear the commands history
 ___
+<<<<<<< HEAD
 note: **_to force the solution working from the beginning just refresh your browser page_**
 
+=======
+>>>>>>> 4874d585ca894b65a1e59613e56d27470213833f
 ## Solution of the task:
 ![solution_of_task1](Sourses/Task%201%20(pwd,%20ls,%20mkdir,%20mv,%20rm).gif)
 ___
